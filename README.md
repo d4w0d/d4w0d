@@ -1,68 +1,139 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Div;Penetration+Tester;Bug+Bounty+Hunter;Mobile+App+Security+Researcher;sudo+access+granted..." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff41&height=200&section=header&text=HANO&fontSize=65&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Security%20Research&descAlignY=58&descSize=17" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=%24+whoami+%3D%3E+Cybersecurity+Researcher;%24+Penetration+Tester;%24+Web+%26+API+Security;%24+Red+Team+%7C+CTF+%7C+Bug+Bounty;%24+Always+Learning.+Always+Hacking." alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/3o7qE1YN7a1z7QYxYI/giphy.gif" width="420" alt="Cybersecurity"/>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
 
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/2Sr3sBAFAgqUE/giphy.gif" width="100%" height="4"/>
-</div>
-
-<h1 align="center">Div 👨‍💻</h1>
-<h3 align="center">Breaking things on purpose — so nobody else can.</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPghhb0J1ojEG3S/giphy.gif" width="450" alt="hacking gif"/>
-</p>
 
 ---
 
-### `> cat about_me.txt`
-
-```yaml
-name:        Div
-role:        Penetration Tester | Bug Bounty Hunter | Mobile AppSec Researcher
-location:    Kuala Lumpur, Malaysia
-focus:       Web/Cloud Security, Active Directory Attacks, Mobile Security (iOS/Android)
-side_quest:  Python data engineering & automation
-currently:   Building out a full mobile pentesting lab (Frida, Objection, MobSF)
-fun_fact:    Prefers Burp Suite dark mode over sunlight
+```bash
+┌──(hano㉿kali)-[~]
+└─$ cat about_me.txt
 ```
 
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  Name       : Hano                                           │
+│  Role       : Cybersecurity Researcher / Penetration Tester  │
+│  Focus      : Offensive Security & Vulnerability Research    │
+│  Environment: Kali Linux                                     │
+│                                                              │
+│  Interests  :                                                 │
+│      Web Application Security                                 │
+│      API Security                                             │
+│      Network Pentesting                                       │
+│      Active Directory                                         │
+│      Privilege Escalation                                     │
+│      Reconnaissance                                           │
+│      Exploit Development                                      │
+│      Security Automation                                      │
+│      CTFs & Security Research                                 │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+> **I break things to understand how they work — then figure out how to make them harder to break.**
+
 ---
 
-### `> ls -la ./expertise`
+## `> ./expertise`
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🌐 Web / Cloud Security**
-- GraphQL & REST API abuse (IDOR, auth bypass)
-- JWT attacks (alg confusion, cracking)
-- Azure cloud misconfig (SAS tokens, blob storage)
-- Recon: JS bundle analysis, endpoint enumeration
-- Exposed `.git` / secrets hunting
+### 🌐 Web Application Security
 
-**🏢 Active Directory / Internal Pentest**
-- Kerberoasting, AS-REP Roasting
-- Pass-the-Hash / Pass-the-Ticket / Golden-Silver Tickets
-- BloodHound-driven privilege escalation
-- Windows priv-esc (Juicy Potato, service abuse, persistence)
+* SQL Injection
+* Cross-Site Scripting
+* SSRF
+* SSTI
+* LFI / RFI
+* XXE
+* RCE
+* Path Traversal
+* File Upload Vulnerabilities
+* HTTP Request Smuggling
+* Web Cache Poisoning
+* Subdomain Takeover
+* Race Conditions
+* Authentication Bypass
+* Authorization / Access Control
+* IDOR / BOLA
+* JWT Security
 
 </td>
+
 <td valign="top" width="50%">
 
-**📱 Mobile Security**
-- Android & iOS dynamic + static analysis
-- SSL pinning bypass (Frida / Objection)
-- MobSF, drozer, jadx
-- OWASP MASVS-aligned assessments
+### 🔌 API Security
 
-**🐍 Automation / Data Engineering**
-- Python data pipelines (MongoDB → Excel)
-- Custom secret-extraction & recon tooling
-- Report automation with openpyxl
+* REST API Testing
+* GraphQL Security
+* BOLA / IDOR
+* Broken Authentication
+* JWT Attacks
+* Rate-Limit Testing
+* API Enumeration
+* Mass Assignment
+* Privilege Escalation
+* OAuth Security
+* Business Logic Vulnerabilities
+* OpenAPI / Swagger Analysis
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🏢 Network & Internal Security
+
+* Network Enumeration
+* SMB
+* LDAP
+* Kerberos
+* DNS
+* SSH
+* FTP
+* Active Directory
+* Password Attacks
+* Privilege Escalation
+* Lateral Movement
+* Post-Exploitation
+
+</td>
+
+<td valign="top">
+
+### ☁️ Infrastructure & Cloud
+
+* Linux Security
+* Windows Security
+* Docker
+* Cloud Misconfigurations
+* Exposed Services
+* Secret Discovery
+* Attack Surface Mapping
+* Configuration Auditing
+* Infrastructure Enumeration
+* Security Automation
 
 </td>
 </tr>
@@ -70,75 +141,322 @@ fun_fact:    Prefers Burp Suite dark mode over sunlight
 
 ---
 
-### `> nmap -sV skills`
+## `> nmap -sV ./arsenal`
 
-<div align="center">
+### ⚔️ Security Tools
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+<p align="center">
 
-![BloodHound](https://img.shields.io/badge/-BloodHound-000000?style=for-the-badge&logoColor=9FEF00)
-![Frida](https://img.shields.io/badge/-Frida-000000?style=for-the-badge&logoColor=A5342E)
-![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Apple](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,mysql,php,nodejs&perline=8"/>
 
-</div>
+<br><br>
 
----
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 
-### `> whoami --platforms`
-
-<div align="center">
-
-[![HackerOne](https://img.shields.io/badge/-HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=A5C947)](#)
-[![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=FF6634)](#)
-[![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=000000)](#)
-
-</div>
+</p>
 
 ---
 
-### `> tail -f github_stats.log`
+## `> ./attack_surface`
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true" />
-
-</div>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these live stat cards.
-
----
-
-### `> curl -s connect.sh`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](#)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](#)
-[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](#)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufcVAp3AiJJsrIs/giphy.gif" width="400" alt="matrix code gif"/>
-</div>
-
-<div align="center">
-
-```
-"There is no patch for human stupidity." — every pentest report ever
+```text
+                         ┌─────────────────┐
+                         │   RECONNAISSANCE │
+                         └────────┬────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                    ▼                           ▼
+             Web Applications                Networks
+                    │                           │
+              ┌─────┴─────┐               ┌─────┴─────┐
+              │           │               │           │
+             APIs        Web            SMB/LDAP    AD
+              │           │               │           │
+              └─────┬─────┘               └─────┬─────┘
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                         VULNERABILITY DISCOVERY
+                                  │
+                                  ▼
+                             EXPLOITATION
+                                  │
+                                  ▼
+                              CHAINING
+                                  │
+                                  ▼
+                               IMPACT
+                                  │
+                                  ▼
+                             REMEDIATION
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
+---
+
+## `> ./current_mission`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R6cTg3N3J4c2Z2a3R3Y3M0bWJ6cDg2b2V4aGJ6b2V0ZzR3b2J3bWZ4d2ZqZ2V4ZyZq/3o7qE1YN7a1z7QYxYI/giphy.gif" width="400"/>
+
+</div>
+
+```bash
+[+] Mapping attack surface...
+[+] Enumerating endpoints...
+[+] Testing authentication...
+[+] Testing authorization...
+[+] Hunting vulnerabilities...
+[+] Building attack chains...
+[+] Documenting findings...
+
+STATUS: ACTIVE
+```
+
+### Currently Exploring
+
+```text
+[+] Advanced Web Exploitation
+[+] API Security
+[+] Active Directory
+[+] Privilege Escalation
+[+] Vulnerability Chaining
+[+] Recon Automation
+[+] Security Tool Development
+[+] AI / LLM Security
+```
+
+---
+
+## `> ls -lah ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Offensive Security Tools
+
+Security utilities designed to automate repetitive penetration-testing and reconnaissance workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 Reconnaissance
+
+Tools for discovering attack surfaces, endpoints, subdomains, technologies, secrets, and exposed infrastructure.
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🧪 CTF & Security Labs
+
+Practical research, exploitation techniques, methodology, and lessons learned from security labs.
+
+</td>
+
+<td valign="top">
+
+### 📚 Security Research
+
+Technical writeups covering vulnerabilities, attack techniques, exploitation chains, and defensive recommendations.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat /var/log/security.log`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Reconnaissance+complete.;%5B%2B%5D+Attack+surface+mapped.;%5B%2B%5D+Vulnerability+identified.;%5B%2B%5D+Exploit+chain+constructed.;%5B%2B%5D+Finding+documented.;%5B%2B%5D+Repeat." alt="Security log"/>
+
+</div>
+
+---
+
+## `> ./github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="70%"/>
+
+</div>
+
+---
+
+## `> git log --oneline --all`
+
+```text
+commit 7f3a91c
+Author: Hano
+
+    research: analyze new attack surface
+
+commit 42d7a81
+Author: Hano
+
+    lab: reproduce vulnerability
+
+commit a91c4ef
+Author: Hano
+
+    tools: automate reconnaissance
+
+commit 1337abc
+Author: Hano
+
+    ctf: solve another box
+
+commit 0000000
+Author: Hano
+
+    learning: repeat
+```
+
+---
+
+## `> ./writeups`
+
+I document things I learn because **knowledge becomes more valuable when it can be shared**.
+
+### 🔬 Research Topics
+
+`SSRF` · `SQLi` · `XSS` · `RCE` · `SSTI` · `XXE` · `LFI` · `RFI` · `IDOR` · `BOLA` · `JWT` · `SSTI` · `HTTP Request Smuggling` · `Web Cache Poisoning` · `Subdomain Takeover` · `Privilege Escalation` · `Active Directory`
+
+---
+
+## `> ./lab`
+
+<div align="center">
+
+<a href="https://www.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+</a>
+
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger%20Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                       TRAINING                          │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│   Hack The Box          ████████████████████            │
+│   TryHackMe             ██████████████████              │
+│   PortSwigger Academy   ███████████████████             │
+│   CTFs                  ████████████████████            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> ./mindset`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26ufcVAp3AiJJsrIs/giphy.gif" width="450" alt="Matrix"/>
+
+<br><br>
+
+```text
+ENUMERATE
+     ↓
+UNDERSTAND
+     ↓
+IDENTIFY
+     ↓
+EXPLOIT
+     ↓
+CHAIN
+     ↓
+IMPACT
+     ↓
+DOCUMENT
+     ↓
+REMEDIATE
+```
+
+### **Think like an attacker. Build like a defender.**
+
+</div>
+
+---
+
+## `> curl -s connect.sh`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_X_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge"/>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│        "The quieter you become, the more you can hear."      │
+│                                                              │
+│                 Hack • Learn • Build • Secure                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
