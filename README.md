@@ -140,7 +140,7 @@ currently:   Building out a full mobile pentesting lab (Frida, Objection, MobSF)
 </div>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/editingandlayout-NEvPzZ8bd1V4Y/giphy.gif" width="420" alt="matrix code gif"/>
+  <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="420" alt="matrix code gif"/>
 </p>
 
 <div align="center">
