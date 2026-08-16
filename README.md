@@ -125,7 +125,7 @@ currently:   Building out a full mobile pentesting lab (Frida, Objection, MobSF)
 
 </div>
 
-> Swap `YOUR_GITHUB_USERNAME` for your real GitHub handle to activate these live cards.
+> Swap `d4w0d` for your real GitHub handle to activate these live cards.
 
 ---
 
@@ -133,14 +133,14 @@ currently:   Building out a full mobile pentesting lab (Frida, Objection, MobSF)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:YOUR_EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:0@example.com)
 
 </div>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/editingandlayout-NEvPzZ8bd1V4Y" width="420" alt="matrix code gif"/>
+  <img src="https://giphy.com/gifs/editingandlayout-NEvPzZ8bd1V4Y/giphy.gif" width="420" alt="matrix code gif"/>
 </p>
 
 <div align="center">
